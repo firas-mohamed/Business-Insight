@@ -6,6 +6,8 @@
 
 Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
 
+Data provided by: Codebasics
+
 
 ## requirements
 
@@ -56,28 +58,36 @@ Here is listed some of the important steps in each process
 
 ## DASHBOARD 
 
+icons/background from freepik.com
 
 **homepage**
 
-
+<img width="1396" alt="Homepage" src="https://user-images.githubusercontent.com/118466113/203607528-82e26fec-f4f9-45d7-8276-26689e30457e.png">
 
 
 
 
 **Finance View**
 
-
+<img width="1391" alt="Finance view" src="https://user-images.githubusercontent.com/118466113/203607634-3718c797-cdd9-484a-95ad-01c5912fd80b.png">
 
 **Sales View**
+<img width="1396" alt="Sales View" src="https://user-images.githubusercontent.com/118466113/203607655-58352781-076c-48a1-b850-5a79e933b3dc.png">
 
 
 **Marketing View**
+<img width="1399" alt="Marketing view" src="https://user-images.githubusercontent.com/118466113/203607716-15ec0ec9-a79b-4526-b1eb-c69dba48b1c5.png">
+
 
 **Supply Chain**
 
+<img width="1395" alt="Supply Chain View" src="https://user-images.githubusercontent.com/118466113/203607735-1dc3189f-59ee-4f67-92b7-c6c5ad9fc602.png">
+
+
+
 **Executive View**
 
-
+<img width="1398" alt="Executive view" src="https://user-images.githubusercontent.com/118466113/203607771-4ea35a98-8cb7-4243-bf8f-d16c7503639b.png">
 
 
 
